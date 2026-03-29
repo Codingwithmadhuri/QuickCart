@@ -9,6 +9,7 @@ A fully responsive, production-ready eCommerce frontend inspired by Amazon, buil
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite)
 
 ---
+🚀 Live Demo: [quickcartshopping.netlify.app](https://quickcartshopping.netlify.app/)
 
 ## ✨ Features
 
