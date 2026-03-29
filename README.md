@@ -122,43 +122,6 @@ src/
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js 18+ or Bun
-- npm, yarn, pnpm, or bun
-
-### Installation
-
-```bash
-# Clone the repository
-git clone <repository-url>
-cd quickcart
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-The app will be available at `http://localhost:5173`.
-
-### Build for Production
-
-```bash
-npm run build
-npm run preview
-```
-
-### Run Tests
-
-```bash
-npm run test
-```
-
----
-
 ## 📜 Routes
 
 | Route | Page |
